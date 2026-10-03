@@ -22,7 +22,7 @@ Actual Shipping   Scheduled Shipping
 
 ## Orders by Region
 
-![Orders by Region](assets/01_orders_by_region.png)
+![Orders by Region](assets/01_orders_by_region.png.png)
 
 ## Orders by Shipping Mode
 
