@@ -5,11 +5,10 @@ SQL-based analysis of orders, delivery performance, shipping patterns, and profi
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-53,184                122,632
-Unique Orders         Records
-
-3.47 days             2.87 days
-Actual Shipping       Scheduled Shipping
+* 53,184      Unique Orders          
+* 122,632     Records
+* 3.47 days   Actual Shipping
+* 2.87 days   Scheduled Shipping
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
