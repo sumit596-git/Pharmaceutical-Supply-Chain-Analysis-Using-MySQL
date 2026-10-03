@@ -1,4 +1,4 @@
-# Pharmaceutical Supply Chain Analysis Using MySQL
+#  Supply Chain Analysis Using MySQL
 
 SQL-based analysis of orders, delivery performance, shipping patterns, and profitability.
 
