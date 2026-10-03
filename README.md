@@ -14,11 +14,30 @@ SQL-based analysis of orders, delivery performance, shipping patterns, and profi
 
 ## Business Questions
 
-- What regions generate the most orders?
-- Which shipping modes are used most?
-- How is delivery performance distributed?
-- Which categories have stronger profit ratios?
-- How does activity vary over time?
+## 🔎 Business Questions
+
+This analysis focuses on the following supply chain questions:
+
+### 📦 Order Analysis
+- Which regions generate the most orders?
+- Which shipping modes are used most frequently?
+- Which product categories have the highest order volume?
+
+### 🚚 Delivery Performance
+- How is delivery status distributed across the records?
+- What is the average actual shipping time?
+- How does actual shipping time compare with scheduled shipping time?
+- Which shipping modes have higher average actual shipping times?
+- Which regions have the highest late-delivery risk?
+
+### 💰 Profitability Analysis
+- Which product categories have the highest average profit ratio?
+- Which regions have the highest average profit ratio?
+- Which records have a profit ratio above the overall average?
+
+### 📅 Time Analysis
+- How does record volume vary by year?
+- How does record volume vary by month?
 
 ## Orders by Region
 
