@@ -2,15 +2,16 @@
 
 SQL-based analysis of orders, delivery performance, shipping patterns, and profitability.
 
----
 
-53,184            122,632
-Unique Orders     Records
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-3.47 days         2.87 days
-Actual Shipping   Scheduled Shipping
+53,184              122,632
+Unique Orders       Records
 
----
+3.47 days           2.87 days
+Actual Shipping     Scheduled Shipping
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## Business Questions
 
